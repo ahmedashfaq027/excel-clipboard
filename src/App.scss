@@ -1,0 +1,48 @@
+.App {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  padding: 1rem;
+  background-color: green;
+  color: white;
+  font-size: larger;
+  font-weight: 500;
+  margin-bottom: 3rem;
+}
+
+section {
+  max-width: 80%;
+  margin: 0 auto;
+
+  .section-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .configure-rows-cols {
+      flex: 1;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+
+      & > * + * {
+        margin-left: 10px;
+      }
+
+      input {
+        width: 3rem;
+      }
+    }
+
+    .buttons {
+      flex: 0.5;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 1rem;
+    }
+  }
+}

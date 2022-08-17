@@ -1,0 +1,14 @@
+.Table {
+  overflow-x: scroll;
+  margin-top: 2.5rem;
+
+  td,
+  th {
+    height: 2rem;
+    max-height: 5rem;
+  }
+
+  .selectedCell {
+    background-color: #ccc;
+  }
+}
