@@ -1,5 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
-import logo from "./logo.svg";
+import React, { useRef, useState } from "react";
 import "./App.scss";
 import Table from "./Table";
 
