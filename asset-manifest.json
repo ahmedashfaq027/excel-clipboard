@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excel-clipboard/static/css/main.25f2c084.css",
+    "main.js": "/excel-clipboard/static/js/main.9216b188.js",
+    "static/js/787.8acd084f.chunk.js": "/excel-clipboard/static/js/787.8acd084f.chunk.js",
+    "index.html": "/excel-clipboard/index.html",
+    "main.25f2c084.css.map": "/excel-clipboard/static/css/main.25f2c084.css.map",
+    "main.9216b188.js.map": "/excel-clipboard/static/js/main.9216b188.js.map",
+    "787.8acd084f.chunk.js.map": "/excel-clipboard/static/js/787.8acd084f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f2c084.css",
+    "static/js/main.9216b188.js"
+  ]
+}
